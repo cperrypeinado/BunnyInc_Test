@@ -14,6 +14,22 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:BunnyInc_Test.Index.tblIngreso">
+	<summary>
+Control tblIngreso.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BunnyInc_Test.Index.txtPersonID">
+	<summary>
+Control txtPersonID.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:BunnyInc_Test.Index.btnLinkedin">
 	<summary>
 Control btnLinkedin.
@@ -22,21 +38,30 @@ Control btnLinkedin.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:BunnyInc_Test.Index.btnTorre">
+</member><member name="F:BunnyInc_Test.Index.imgFotoPerfil">
 	<summary>
-Control btnTorre.
+Control imgFotoPerfil.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="M:BunnyInc_Test.Index.btnTorre_ServerClick(System.Object,System.EventArgs)">
+</member><member name="F:BunnyInc_Test.Index.lblProfle">
 	<summary>
- Evento clic del boton TorreBio
- </summary>
-	<param name="sender"></param>
-	<param name="e"></param>
-	<remarks></remarks>
+Control lblProfle.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:BunnyInc_Test.Index.lblHead">
+	<summary>
+Control lblHead.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="P:BunnyInc_Test.My.MyWebExtension.Computer">
 	<summary>
  Devuelve información sobre el equipo host.

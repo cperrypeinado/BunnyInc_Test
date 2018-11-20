@@ -10,18 +10,57 @@
         #btnLinkedin {
             height: 29px;
         }
+        #lblProfle {
+            text-align: center;
+        }
+        #lblHead {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
     <form id="form1" runat="server">
     <div>
     
-        <input id="btnLinkedin" type="button" value="Linkedin" runat="server"/>
+        &nbsp;<br />
         <br />
+        <table style="width:100%;" id="tblIngreso" runat="server">
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="text-align: center">Insert your TorreBio ID</td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+                    <input id="txtPersonID" type="text" width="50%" runat="server" /></td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+    
+        <input id="btnLinkedin" type="button" value="Merge LinkedIn profile" runat="server"/></td>
+            </tr>
+        </table>
         <br />
+        <table style="width:100%;">
+            <tr>
+                <td style="text-align: center">
+                    <img id="imgFotoPerfil" alt="" src="" runat="server"/></td>
+            </tr>
+            <tr>
+                <td><h1>
+                    <div runat="server" id="lblProfle">
+                    </div></h1>
+                </td>
+            </tr>
+            <tr>
+                <td><h1>
+                    <div runat="server" id="lblHead">
+                    </div></h1></td>
+            </tr>
+        </table>
         <br />
-        <br />
-        <input id="btnTorre" type="button" value="TorreBio" runat="server"/></div>
+        </div>
     </form>
 </body>
 </html>

@@ -23,6 +23,24 @@ Partial Public Class Index
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
+    '''Control tblIngreso.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents tblIngreso As Global.System.Web.UI.HtmlControls.HtmlTable
+
+    '''<summary>
+    '''Control txtPersonID.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents txtPersonID As Global.System.Web.UI.HtmlControls.HtmlInputText
+
+    '''<summary>
     '''Control btnLinkedin.
     '''</summary>
     '''<remarks>
@@ -32,11 +50,29 @@ Partial Public Class Index
     Protected WithEvents btnLinkedin As Global.System.Web.UI.HtmlControls.HtmlInputButton
 
     '''<summary>
-    '''Control btnTorre.
+    '''Control imgFotoPerfil.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents btnTorre As Global.System.Web.UI.HtmlControls.HtmlInputButton
+    Protected WithEvents imgFotoPerfil As Global.System.Web.UI.HtmlControls.HtmlImage
+
+    '''<summary>
+    '''Control lblProfle.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents lblProfle As Global.System.Web.UI.HtmlControls.HtmlGenericControl
+
+    '''<summary>
+    '''Control lblHead.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents lblHead As Global.System.Web.UI.HtmlControls.HtmlGenericControl
 End Class
